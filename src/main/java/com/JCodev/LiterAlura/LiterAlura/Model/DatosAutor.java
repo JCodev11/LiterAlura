@@ -3,9 +3,9 @@ package com.JCodev.LiterAlura.LiterAlura.Model;
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
-import java.util.List;
 @JsonIgnoreProperties(ignoreUnknown = true)
-public record Datos(
-        @JsonAlias("results") List<DatosLibros> libros) {
-
+public record DatosAutor(
+        @JsonAlias("name") String nombre,
+        @JsonAlias("birth_year") String fechaDeNacimiento
+) {
 }
