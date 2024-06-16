@@ -18,11 +18,11 @@
 ![Catálogo de libros](img/LiterAlura-result1.jpg)
 ![Catálogo de libros](img/LiterAlura-opc2.jpg)
 ![Catálogo de libros](img/LiterAlura-result2.jpg)
-![Catálogo de libros](img/LiterAlura-opcion3.jpg)
+![Catálogo de libros](img/LiterAlura-opc3.jpg)
 ![Catálogo de libros](img/LiterAlura-result3.jpg)
-![Catálogo de libros](img/LiterAlura-opcion4.jpg)
+![Catálogo de libros](img/LiterAlura-opc4.jpg)
 ![Catálogo de libros](img/LiterAlura-result4.jpg)
-![Catálogo de libros](img/LiterAlura-opcion5.jpg)
+![Catálogo de libros](img/LiterAlura-opc5.jpg)
 ![Catálogo de libros](img/LiterAlura-result5.jpg)
 
 
