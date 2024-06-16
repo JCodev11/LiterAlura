@@ -1,6 +1,6 @@
 <h1 align="center">Catálogo de Libros</h1>
 <h1 align="center">
-  <img alt="profile" src="https://img.shields.io/badge/JCodev-TuDivisa.com%20-blue">
+  <img alt="profile" src="https://img.shields.io/badge/JCodev-LiterAlura%20-blue">
   <a href="https://linkedin.com/in/JCodev11">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-JCodev11-48ecb1?style=flat&logo=linkedin">
   </a><br>
