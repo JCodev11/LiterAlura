@@ -13,19 +13,20 @@
 </h1>
 
 ## Preview
-![Catálogo de libros](img/LiterAlura-menu.jpg)
-![Catálogo de libros](img/LiterAlura-opc1.jpg)
-![Catálogo de libros](img/LiterAlura-result1.jpg)
-![Catálogo de libros](img/LiterAlura-opc2.jpg)
-![Catálogo de libros](img/LiterAlura-result2.jpg)
-![Catálogo de libros](img/LiterAlura-opc3.jpg)
-![Catálogo de libros](img/LiterAlura-result3.jpg)
-![Catálogo de libros](img/LiterAlura-opc4.jpg)
-![Catálogo de libros](img/LiterAlura-result4.jpg)
-![Catálogo de libros](img/LiterAlura-opc5.jpg)
-![Catálogo de libros](img/LiterAlura-result5.jpg)
+![Catálogo de libros](img/LiterAlura-Menu.jpg)
+
+![Catálogo de libros](img/LiterAlura-opc1.jpg) ![Catálogo de libros](img/LiterAlura-result1.jpg)
+
+![Catálogo de libros](img/LiterAlura-opc2.jpg) ![Catálogo de libros](img/LiterAlura-result2.jpg)
+
+![Catálogo de libros](img/LiterAlura-opc3.jpg) ![Catálogo de libros](img/LiterAlura-result3.jpg)
+
+![Catálogo de libros](img/LiterAlura-opc4.jpg) ![Catálogo de libros](img/LiterAlura-result4.jpg)
+
+![Catálogo de libros](img/LiterAlura-opc5.jpg) ![Catálogo de libros](img/LiterAlura-result5.jpg)
 
 
+ 
 
 ## Description
 Aplicación de Catálogo de Libros, implementando la persistencia de datos, el consumo de API, haciendo uso de framework Spring-boot y JPA 
