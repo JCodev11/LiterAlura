@@ -1,17 +1,21 @@
 package com.JCodev.LiterAlura.LiterAlura.Model;
 
 import jakarta.persistence.*;
+import java.util.List;
 
 @Entity
-@Table(name = "autores")
+@Table(name = "Autores")
 public class Autores {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-@Column (unique = true)
+    @Column(unique = true)
     private String nombre;
     private String fechaDeNacimiento;
     private String fechaDeDefuncion;
+
+    @OneToMany(mappedBy = "autor", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Libros> libros;
 
     public Autores() {
     }
@@ -22,7 +26,7 @@ public class Autores {
         this.fechaDeDefuncion = datosAutor.fechaDeDefuncion();
     }
 
-    // Getters y Setters
+    // Getters and Setters
     public Long getId() {
         return id;
     }
@@ -53,6 +57,14 @@ public class Autores {
 
     public void setFechaDeDefuncion(String fechaDeDefuncion) {
         this.fechaDeDefuncion = fechaDeDefuncion;
+    }
+
+    public List<Libros> getLibros() {
+        return libros;
+    }
+
+    public void setLibros(List<Libros> libros) {
+        this.libros = libros;
     }
 
     @Override
